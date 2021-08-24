@@ -10,8 +10,9 @@ Paul Raupach
 ## Dates: 
 Aug 18, 2021 – Dec 11, 2021
 
-Times: 
-Tu/Th 4:55PM - 5:30PM
+
+## Times: 
+Tu/Th 1:15PM - 2:30PM
 
 ## Student Learning Outcomes
 Students will be able to:
