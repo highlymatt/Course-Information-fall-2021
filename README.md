@@ -10,6 +10,9 @@ Paul Raupach
 ## Dates: 
 Aug 18, 2021 – Dec 11, 2021
 
+Times: 
+Tu/Th 4:55PM - 5:30PM
+
 ## Student Learning Outcomes
 Students will be able to:
 * Design and implement a computer-based system, process, component, or program to meet desired needs.
