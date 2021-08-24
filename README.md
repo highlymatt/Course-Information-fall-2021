@@ -7,6 +7,9 @@ Concepts and issues in the development of large software projects. Approaches to
 ## Instructor
 Paul Raupach
 
+## Dates: 
+Aug 18, 2021 – Dec 11, 2021
+
 ## Student Learning Outcomes
 Students will be able to:
 * Design and implement a computer-based system, process, component, or program to meet desired needs.
